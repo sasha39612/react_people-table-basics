@@ -1,0 +1,2 @@
+.navbar{display:flex;justify-content:flex-start}.navbar__item{padding:20px}.PeopleTable{border:2mm ridge rgba(50,138,220,.795);background-color:#f3c;border-collapse:collapse}tbody tr:nth-child(odd){background-color:#0fa0b9}tbody tr:nth-child(2n){background-color:#e495e4}tbody tr{background-image:grey}td,th{padding:20px}
+/*# sourceMappingURL=main.3e999293.chunk.css.map */
